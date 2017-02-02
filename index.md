@@ -3,11 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My name is Matthew Basista. I am currently a senior at the Elliott School of International Affairs (ESIA) at GWU studying international affairs. My studies concentrate on conflict resolution with a focus in the Middle East. 
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+* The Civil-Military Divide: Causes, Conflict, and Consequences 
+* How Should the US Stabilize Iraq?
+* Genocide, R2P, and Humanitarian Catastrophes
+* The Growing Militarization of US Foreign Policy 
+
+
