@@ -7,9 +7,9 @@ My name is Matthew Basista. I am currently a senior at the Elliott School of Int
 
 ## Current Interests and Projects:
 
-* The Civil-Military Divide: Causes, Conflict, and Consequences 
-* How Should the US Stabilize Iraq?
-* Genocide, R2P, and Humanitarian Catastrophes
-* **The Growing Militarization of US Foreign Policy** 
+* The Civil-Military Divide: Causes, Conflict, and Consequences   
+* How Should the US Stabilize Iraq?  
+* Genocide, R2P, and Humanitarian Catastrophes  
+* The Growing Militarization of US Foreign Policy
 
 
